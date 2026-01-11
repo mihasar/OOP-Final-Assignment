@@ -4,10 +4,10 @@ Student: Michael Saravaisky (211460605)
 
 Solutions for sections 1, 3 and 5.
 
-## Files (inside `Task/`)
-- `Task/q1_invoice.py` — Section 1 (Encapsulation + property)
-- `Task/q3_polymorphism.py` — Section 3 (Polymorphism + ABC + isinstance)
-- `Task/main.py`, `Task/controller.py`, `Task/model.py`, `Task/view.py`, `Task/Person.py` — Section 5 (MVC)
+## Project structure
+- `Q1/` — Section 1 (Encapsulation + property)
+- `Q3/` — Section 3 (Polymorphism + ABC + isinstance)
+- `Q5/` — Section 5 (MVC)
 
 ## How to run
 From the repository root:
