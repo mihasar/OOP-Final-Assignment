@@ -1,28 +1,23 @@
-# OOP Practice Assignment
+# הגשת תרגול מסכם – תכנות מונחה עצמים
 
-Student: Michael Saravaisky (211460605)
+שם: מיכאל סרבייסקי (211460605)
 
-Solutions for sections 1, 3 and 5.
+הגשה לסעיפים 1–5.  
+תשובות עיוניות נמצאות בקובץ `theory.md`.
 
-## Project structure
-- `Q1/` — Section 1 (Encapsulation + property)
-- `Q3/` — Section 3 (Polymorphism + ABC + isinstance)
-- `Q5/` — Section 5 (MVC)
+## מבנה הפרויקט
+- `Q1/` סעיף 1 – כימוס (Encapsulation + property)
+- `Q2/` סעיף 2 – הורשה (Inheritance)
+- `Q3/` סעיף 3 – רב־צורתיות (Polymorphism + ABC + isinstance)
+- `Q4/` סעיף 4 – REPL
+- `Q5/` סעיף 5 – MVC
 
-## How to run
-From the repository root:
+## הרצה
+מתוך שורש הריפו:
 
-Section 1:
 ```bash
-python Task/q1_invoice.py
-```
-
-Section 3:
-```bash
-python Task/q3_polymorphism.py
-```
-
-Section 5:
-```bash
-python Task/main.py
-```
+python Q1/q1_invoice.py
+python Q2/q2_inheritance.py
+python Q3/q3_polymorphism.py
+python Q4/main.py
+python Q5/main.py
